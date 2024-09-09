@@ -1,4 +1,4 @@
-# Dominic Damar Pam 👨‍💻
+# Dominic Pam 👨‍💻
 
 **Frontend React Developer**
 
