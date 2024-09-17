@@ -51,3 +51,9 @@ Developed a Next.js event management system demonstrating both Server-Side Rende
 
 -  **Tech Stacks:** Next.js, Firebase, Tailwind CSS, Radix UI, ShadCN
 -  **Key Features:** SSR, SSG, Firebase for data and image handling, responsive design, front-end animations, SEO optimization
+
+## Support Skills
+
+### English C2 Level Proficiency
+
+[certification](https://cert.efset.org/bbY5pJ)
