@@ -55,5 +55,3 @@ Developed a Next.js event management system demonstrating both Server-Side Rende
 ## Support Skills
 
 ### English C2 Level Proficiency
-
-[certification](https://cert.efset.org/bbY5pJ)
