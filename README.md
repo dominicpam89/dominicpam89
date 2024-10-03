@@ -55,5 +55,3 @@ Created a real-time bill-splitting app with secure authentication and user manag
 ## Support Skills
 
 ### English C2 Level Proficiency
-
-[certification](https://cert.efset.org/bbY5pJ)
