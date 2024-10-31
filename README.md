@@ -24,9 +24,18 @@ Results-driven Frontend Developer with expertise in building user-centric, respo
 
 ## Featured Projects
 
+### [Teach and Tackle](https://github.com/dominicpam89/showcase-04-teatac)
+
+Presenting Teach and Tackle, a Next.js 14+ creation where server and client components finally learn to play nice. Firebase steps in as the sturdy backbone for authentication and database work, proving that a dependable BaaS can be both stylish and functional. Imagine Quora and Stack Overflow decided to throw a get-together for students, teachers, and experts – this platform is that social event of the season! It’s designed to be a custom-fit for schools, universities, or communities, letting users dive into discussions or pick the brains of the wise and knowledgeable.
+
+It’s optimized for SEO (because who doesn’t want to be found on Google?) and has some slick animations, responsive design, and interactive flair, thanks to Framer Motion, Radix UI, and Tailwind CSS. Oh, and TanStack Query ensures data handling feels like a breeze. This project is still under construction – stay tuned for more!
+
+-  **Tech Stacks:** Next.js, Firebase, TanStack Query, Tailwind CSS, Radix UI, ShadCN
+-  **Key Features:** SSR and SSG, Firebase for data and image management, responsive design, animations galore, and SEO that brings it all together
+
 ### [Event Management](https://github.com/dominicpam89/showcase-03-whywouldattend)
 
-Developed a Next.js event management system demonstrating both Server-Side Rendering (SSR) and Static Site Generation (SSG). Integrated Firebase for secure event data storage and image management, optimized for SEO with advanced animations and responsive design using Tailwind CSS and Radix UI.
+Developed a Next.js event management system demonstrating both Server-Side Rendering (SSR) and Static Site Generation (SSG). Integrated Firebase for secure event data storage and image management, optimized for SEO with advanced animations and responsive design using Tailwind CSS and Radix UI. The project is still ongoing for better UI and backend improvement.
 
 -  **Tech Stacks:** Next.js, Firebase, Tailwind CSS, Radix UI, ShadCN
 -  **Key Features:** SSR, SSG, Firebase for data and image handling, responsive design, front-end animations, SEO optimization
